@@ -2,7 +2,7 @@
 
 A decision-first business and product analytics portfolio case study for a fictional wearable-membership company.
 
-> **Important disclosure:** PulsePath is fictional. All records are deterministic and synthetic. This project contains no WHOOP member data, biometric data, health information, financial data, or real personal information. The results demonstrate an analytical approach—not the performance of any real company.
+> **Important disclosure:** PulsePath is fictional. All records are deterministic and synthetic. This project contains no real member data, biometric data, health information, or financial data from any company. The results demonstrate an analytical approach—not the performance of any real company.
 
 ## The one-minute version
 
@@ -211,4 +211,4 @@ pulsepath-member-analytics/
 
 ## Final interpretation boundary
 
-This project is portfolio evidence of business analysis, product analytics, data validation, and stakeholder communication. It is not an official WHOOP analysis, a real-world causal claim, medical guidance, or financial advice.
+This project is portfolio evidence of business analysis, product analytics, data validation, and stakeholder communication. It is not an analysis of any real company, a real-world causal claim, medical guidance, or financial advice.

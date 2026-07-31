@@ -2,7 +2,7 @@
 
 This gallery gives recruiters, executives, business analysts, and technical reviewers a fast way to inspect the project without reading the repository in file order.
 
-All screenshots and results use fictional PulsePath data. No real member, WHOOP, biometric, health, or financial information is included.
+All screenshots and results use fictional PulsePath data. This project contains no real member data, biometric data, health information, or financial data from any company.
 
 ## 1. Executive decision communication
 
