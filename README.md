@@ -15,6 +15,23 @@ A decision-first business and product analytics portfolio case study for a ficti
 
 This is deliberately not a “green metric means launch” project. The early outcome improved clearly, but the long-term subscription evidence has not cleared the agreed risk threshold.
 
+## Work-sample gallery
+
+[![Executive decision view](docs/work-samples/01-executive-overview.jpg)](docs/work-samples/README.md)
+
+The repository includes visual and analytical work samples for different reviewers:
+
+| Sample | What it demonstrates |
+|---|---|
+| [Executive decision view](docs/work-samples/01-executive-overview.jpg) | Decision-first communication, recommendation boundaries, and plain-language framing |
+| [Decision evidence](docs/work-samples/02-decision-evidence.jpg) | KPI hierarchy, uncertainty translated per 1,000 members, and progressive disclosure |
+| [Technical source inspection](docs/work-samples/03-technical-source.jpg) | Traceable metric definitions, reviewed data, dataset metadata, and SQL access |
+| [Executed notebook](notebooks/member_activation_retention.ipynb) | Reproducible statistical analysis and interpretation |
+| [Business requirements](docs/requirements.md) | INVEST user stories, MoSCoW priorities, acceptance criteria, and risks |
+| [Independent validation](validation/validation_report.md) | Data-quality controls, reconciliation, limitations, and decision readiness |
+
+See the complete [work-sample guide](docs/work-samples/README.md) for the audience, business purpose, and BA competency demonstrated by each artifact.
+
 ## What are we trying to prove?
 
 The project tests three distinct claims:
