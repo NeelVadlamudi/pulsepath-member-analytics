@@ -14,7 +14,7 @@ the decision support needed for a guided-onboarding experiment.
 ## Won't Have in This Version
 
 - Medical or clinical claims.
-- Real WHOOP member, product, or financial data.
+- Real member, product, or financial data from any company.
 - A causal claim for non-randomized segment differences.
 - Personalized health recommendations.
 - Automated production deployment or live warehouse connectivity.
