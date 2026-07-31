@@ -2,7 +2,7 @@
 
 A decision-first business and product analytics portfolio case study for a fictional wearable-membership company.
 
-> **Important disclosure:** PulsePath is fictional. All records are deterministic and synthetic. This project contains no WHOOP member data, biometric data, health information, financial data, or real personal information. The results demonstrate an analytical approach—not the performance of any real company.
+> **Important disclosure:** PulsePath is fictional. All records are deterministic and synthetic. This project contains no real member data, biometric data, health information, or financial data from any company. The results demonstrate an analytical approach—not the performance of any real company.
 
 ## The one-minute version
 
@@ -14,6 +14,23 @@ A decision-first business and product analytics portfolio case study for a ficti
 | What should the team do? | **Expand guided onboarding in stages and keep a randomly selected comparison group.** Do not claim a proven retention improvement yet. |
 
 This is deliberately not a “green metric means launch” project. The early outcome improved clearly, but the long-term subscription evidence has not cleared the agreed risk threshold.
+
+## Work-sample gallery
+
+[![Executive decision view](docs/work-samples/01-executive-overview.jpg)](docs/work-samples/README.md)
+
+The repository includes visual and analytical work samples for different reviewers:
+
+| Sample | What it demonstrates |
+|---|---|
+| [Executive decision view](docs/work-samples/01-executive-overview.jpg) | Decision-first communication, recommendation boundaries, and plain-language framing |
+| [Decision evidence](docs/work-samples/02-decision-evidence.jpg) | KPI hierarchy, uncertainty translated per 1,000 members, and progressive disclosure |
+| [Technical source inspection](docs/work-samples/03-technical-source.jpg) | Traceable metric definitions, reviewed data, dataset metadata, and SQL access |
+| [Executed notebook](notebooks/member_activation_retention.ipynb) | Reproducible statistical analysis and interpretation |
+| [Business requirements](docs/requirements.md) | INVEST user stories, MoSCoW priorities, acceptance criteria, and risks |
+| [Independent validation](validation/validation_report.md) | Data-quality controls, reconciliation, limitations, and decision readiness |
+
+See the complete [work-sample guide](docs/work-samples/README.md) for the audience, business purpose, and BA competency demonstrated by each artifact.
 
 ## What are we trying to prove?
 
@@ -194,4 +211,4 @@ pulsepath-member-analytics/
 
 ## Final interpretation boundary
 
-This project is portfolio evidence of business analysis, product analytics, data validation, and stakeholder communication. It is not an official WHOOP analysis, a real-world causal claim, medical guidance, or financial advice.
+This project is portfolio evidence of business analysis, product analytics, data validation, and stakeholder communication. It is not an analysis of any real company, a real-world causal claim, medical guidance, or financial advice.

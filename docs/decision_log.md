@@ -2,7 +2,7 @@
 
 | Decision | Rejected Alternative | Why |
 |---|---|---|
-| Use a fictional company and synthetic data. | Present the work as WHOOP analysis. | No WHOOP source data was provided; implying otherwise would be misleading. |
+| Use a fictional company and synthetic data. | Present the work as an analysis of a real company. | No real-company source data was provided; implying otherwise would be misleading. |
 | Make activation the primary experiment KPI. | Use app opens or total events. | Activity volume can be gamed and does not demonstrate realized product value. |
 | Keep every assigned member in the denominator. | Analyze only members who paired a device. | Post-assignment filtering would break randomization and overstate performance. |
 | Separate subscription from engaged retention. | Treat an active subscription as active use. | Paid-but-inactive members have different product and business implications. |

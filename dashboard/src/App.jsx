@@ -554,7 +554,7 @@ export function App() {
       </details>
 
       <footer>
-        <p><strong>PulsePath is fictional.</strong> No real member, WHOOP, biometric, or financial data is used.</p>
+        <p><strong>PulsePath is fictional.</strong> This project contains no real member data, biometric data, health information, or financial data from any company.</p>
         <p><strong>For technical readers:</strong> use each three-dot menu to inspect reviewed rows, exact metric definitions, confidence intervals, and source SQL.</p>
       </footer>
 
