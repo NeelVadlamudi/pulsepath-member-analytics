@@ -1,0 +1,70 @@
+{
+  "member_rows": 6000,
+  "daily_rows": 540000,
+  "expected_daily_rows": 540000,
+  "duplicate_member_days": 0,
+  "orphan_member_days": 0,
+  "required_nulls": {
+    "member_id": 0,
+    "experiment_variant": 0,
+    "activated_7d": 0,
+    "retained_60d": 0
+  },
+  "variant_counts": {
+    "Control": 3013,
+    "Guided onboarding": 2987
+  },
+  "treatment_share": 0.49783333333333335,
+  "maximum_pre_treatment_balance_difference": 0.016556755343517082,
+  "balance_differences": {
+    "acquisition_channel": 0.013048800583033177,
+    "plan_tier": 0.01290013112468441,
+    "platform": 0.016556755343517082,
+    "age_band": 0.013374584478308527
+  },
+  "activation_reconciliation_discrepancies": 0,
+  "retention_reconciliation_discrepancies": 0,
+  "maximum_lift_recalculation_difference": 6.938893903907228e-17,
+  "independent_results": {
+    "Activation within 7 days": {
+      "control_rate": 0.31861931629605045,
+      "treatment_rate": 0.4077669902912621,
+      "absolute_lift": 0.08914767399521167,
+      "ci_low": 0.06491195963636615,
+      "ci_high": 0.1133833883540572,
+      "p_value": 5.617728504603292e-13
+    },
+    "Subscription retention at day 60": {
+      "control_rate": 0.6189844009293063,
+      "treatment_rate": 0.6283896886508202,
+      "absolute_lift": 0.009405287721513944,
+      "ci_low": -0.015110133479306304,
+      "ci_high": 0.03392070892233419,
+      "p_value": 0.45208961019657723
+    },
+    "Engaged retention at day 60": {
+      "control_rate": 0.49352804513773646,
+      "treatment_rate": 0.5272849012387011,
+      "absolute_lift": 0.03375685610096463,
+      "ci_low": 0.008473574491819284,
+      "ci_high": 0.05904013771010997,
+      "p_value": 0.00887487575001078
+    },
+    "Device paired within 24 hours": {
+      "control_rate": 0.9283106538333886,
+      "treatment_rate": 0.920656176765986,
+      "absolute_lift": -0.007654477067402632,
+      "ci_low": -0.02102583471590968,
+      "ci_high": 0.005716880581104413,
+      "p_value": 0.2618676519369183
+    },
+    "Cancellation within 14 days": {
+      "control_rate": 0.04945237305011616,
+      "treatment_rate": 0.04820890525610981,
+      "absolute_lift": -0.0012434677940063518,
+      "ci_low": -0.012149543202530306,
+      "ci_high": 0.009662607614517602,
+      "p_value": 0.8231717685997335
+    }
+  }
+}
